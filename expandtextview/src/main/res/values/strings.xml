@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpandTextView</string>
+    <string name="no_network">没有网络连接</string>
+</resources>
